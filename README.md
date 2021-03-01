@@ -1,1 +1,10 @@
-# web-security-training
+# Webセキュリティ研修
+
+## PDFの資料
+
+* [Webのセキュリティについて](part1.pdf)
+* [SQLインジェクション](part2.pdf)
+* [パストラバーサル](part3.pdf)
+* [クロスサイトスクリプティング](part4.pdf)
+* [クロスサイトリクエストフォージェリ](part5.pdf)
+* [脆弱性診断（自動診断）](part6.pdf)
